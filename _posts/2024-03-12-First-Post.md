@@ -11,3 +11,6 @@ _WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL_ by Kou
 published by my old publisher, Addison-Wesley.
 I decided to follow along in Scala.JS instead of JavaScript. 
 I will attempt to publish my work here.
+
+### 08:08 EDT
+My blog seems to have disappeared. Maybe this edit will bring it back.
