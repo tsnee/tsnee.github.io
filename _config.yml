@@ -1,0 +1,4 @@
+theme: minima
+title: Tom Plays With Scala.JS
+author: Tom Snee
+description: This blog documents my work with various web APIs using Scala.JS instead of JavaScript.
