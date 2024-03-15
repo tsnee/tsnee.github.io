@@ -1,8 +1,9 @@
 ---
 title: "Second Chapter"
-date: 2024-03-11
+date: 2024-03-13
 ---
 #### 19:18 ET
+
 Today I finished [doing the exercises in chapter 2](https://github.com/tsnee/webgl-programming-guide-work/tree/main/src/main/scala/io/github/tsnee/webgl/chapter2)
 of _WebGL Programming Guide_. Not completely though - the last two examples involved storing the location of mouse clicks in a
 global mutable array. Since the whole point of this exercise is to write front end code in a purely functional way, I decided
