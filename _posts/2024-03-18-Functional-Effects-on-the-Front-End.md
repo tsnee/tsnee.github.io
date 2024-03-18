@@ -32,3 +32,7 @@ It isn't as ugly as I had feared, although I still wish for a better solution.
 
 Finished chapter 3 of the WebGL book. I made the presentation of the examples a little nicer.
 Next challenge: use GitHub actions to publish that presentation somewhere.
+
+#### 16:19 ET
+
+Published to [/webgl-programming-guide-work](/webgl-programming-guide-work).
