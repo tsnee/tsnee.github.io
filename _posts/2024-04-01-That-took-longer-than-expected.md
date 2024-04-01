@@ -15,3 +15,7 @@ If I wanted to do anything serious with WebGL, I would have to write a framework
 like using different spellings for attribute and uniform names in shader source and in Scala.js.
 I imagine I could model the valid states of a WebGL rendering context as a state machine with transitions protected by the type
 system. If it compiles, it works! I still have a lot to learn before I could take on that project though.
+
+#### 17:32 ET
+
+[The exercises](/webgl-programming-guide-work/) are complete!
